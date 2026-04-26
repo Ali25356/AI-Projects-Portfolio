@@ -18,13 +18,4 @@ Each project includes:
 - Requirements file
 - GitHub-ready structure
 
-## How to upload to GitHub
 
-```bash
-git init
-git add .
-git commit -m "Add AI portfolio projects"
-git branch -M main
-git remote add origin YOUR_REPO_LINK
-git push -u origin main
-```
