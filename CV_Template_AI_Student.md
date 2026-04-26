@@ -1,43 +1,119 @@
-# Your Name
+ALi Abdel farrag 
 
-**Artificial Intelligence Student**  
-Egypt | Phone: Your Phone | Email: your.email@example.com | GitHub: github.com/yourusername
+AI Engineer 
 
-## Objective
-AI student seeking an internship or entry-level opportunity to apply machine learning, deep learning, computer vision, and NLP skills in real-world projects.
+aliabdelfarrag@gmail.com  |  +20 122 228 5996  |  Giza, Egypt  |  linkedin.com/in/ali-abdel-farrag-494227253 
 
-## Education
-Bachelor of Artificial Intelligence  
-Your University Name  
-Expected Graduation: 2026
+PROFESSIONAL SUMMARY 
 
-## Technical Skills
-- Programming: Python, Java
-- AI/ML: Machine Learning, Deep Learning, CNN, NLP, Computer Vision
-- Libraries: TensorFlow, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy
-- Tools: Git, GitHub, Jupyter Notebook, VS Code
-- Hardware: Raspberry Pi, Sensors, Camera Integration
+Artificial Intelligence student with strong hands-on experience in Computer Vision, Deep Learning, and IoT-based AI systems. Experienced in building real-time AI applications using YOLO, CNN, and NLP techniques. Developed smart assistive systems integrating hardware and software using Raspberry Pi and sensors. Passionate about solving real-world problems using AI and continuously improving model performance and system efficiency 
 
-## Projects
+TECHNICAL SKILLS 
 
-### Smart Cane Object Detection System
-- Developed a real-time assistive navigation system using YOLO object detection.
-- Integrated computer vision concepts for obstacle awareness.
-- Designed the system to support audio feedback for blind users.
+ 
 
-### Image Classification using MobileNetV2
-- Built a CNN-based image classification model using transfer learning.
-- Applied preprocessing, augmentation, training, and model evaluation.
-- Evaluated performance using accuracy, classification report, and confusion matrix.
+AI & Machine Learning:   
 
-### Arabic NLP Sentiment & Slang Analysis
-- Developed an Arabic NLP model for classifying informal Arabic text.
-- Applied Arabic text cleaning and TF-IDF feature extraction.
-- Built a machine learning pipeline for sentiment prediction.
+Machine Learning, Deep Learning, Computer Vision, NLP, CNN, Transfer Learning   
 
-## Soft Skills
-Problem Solving | Teamwork | Communication | Fast Learning
+Frameworks & Libraries:   
 
-## Languages
-Arabic: Native  
-English: Good
+TensorFlow, PyTorch, OpenCV, Scikit-learn, NumPy, Pandas   
+
+Programming:   
+
+Python, C/C++ (Basic)   
+
+Hardware & IoT:   
+
+Raspberry Pi, Camera Modules, ToF Sensors, Arduino (Basic)   
+
+Tools & Platforms:   
+
+Jupyter Notebook, Git & GitHub, Linux (Basic), VS Code   
+
+Soft Skills:   
+
+Problem Solving, Critical Thinking, Fast Learning, Team Collaboration, AI Tools & Productivity 
+
+EDUCATION 
+
+ 
+
+King Salman International University (KSIU)	Oct 2022 – Present 
+
+Bachelor of Computer Science	South Sinai, Egypt 
+
+Graduation Project: Smart Cane – AI Assistive System (Computer Vision + IoT)   (Oct 2025 – Present) 
+
+- Developed a real-time object detection system using YOLO.   
+
+- Integrated sensors to estimate distance and improve obstacle awareness.   
+
+- Designed system to provide audio feedback for visually impaired users.   
+
+- Optimized performance to reduce detection delay and improve FPS 
+
+ 
+
+PROJECTS 
+
+ 
+
+ Image Classification using CNN (MobileNetV2)   2026   
+
+- Built an image classification model using transfer learning.   
+
+- Applied data preprocessing and augmentation techniques.   
+
+- Evaluated performance using accuracy, confusion matrix, and validation metrics. 
+
+ 
+
+Arabic NLP System (Slangy Project)  2026   
+
+- Developed an NLP model to analyze Arabic text and slang expressions.   
+
+- Implemented sentiment analysis using machine learning techniques.   
+
+- Designed system to handle informal Egyptian Arabic inputs. 
+
+ 
+
+TRAINING & CERTIFICATIONS 
+
+ 
+
+HCIA – Data Communication	Jul 2025 – Aug 2025 
+
+Arab Organization for Industrialization, Cairo 
+
+Hands-on training in network fundamentals, routing & switching, VLANs, and inter-network connectivity. 
+
+Developed practical skills in configuring and troubleshooting Huawei network devices. 
+
+ 
+
+COURSES 
+
+ 
+
+- Machine Learning & Deep Learning – Completed   
+
+- Computer Vision Fundamentals – Completed   
+
+- NLP Basics – Completed 
+
+LANGUAGES 
+
+ 
+
+Arabic – Native 
+
+English – Good 
+
+INTERESTS 
+
+ 
+
+AI Development • Computer Vision • Problem Solving • Technology • Innovation 
